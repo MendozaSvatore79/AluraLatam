@@ -3,8 +3,8 @@
 ![Logo del Proyecto](./Img/Group 3.svg)
 
 ## Descripción
-
-Breve descripción de tu proyecto. Explica qué hace tu proyecto y por qué es útil.
+Challenge ONE Sprint 01:
+Construye un encriptador de texto con Javascript
 
 ## Índice
 
